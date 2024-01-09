@@ -57,10 +57,10 @@ export default async function IndexPage({
 
       <Footer dictionary={dictionary.foot} />
 
-      <div>
+      {/* <div>
         This text is rendered on the server:{' '}
         {dictionary['server-component'].Bienvenue}
-      </div>
+      </div> */}
 
     </div>
   )
