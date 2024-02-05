@@ -65,7 +65,7 @@ export default function Footer(
                     <p className='mb-2 text-zinc-500'>Tel: +237 696044069 / +237 653021491</p>
                     <p className='mb-2 text-zinc-500'>Gmail: djoumbourecuperation@gmail.com</p>
                     <p className='mb-2 text-zinc-500'>{dictionary.fopfr3a}</p>
-                    <Link href="www.djoumbourecuperation.com"><p className='mb-8 text-zinc-500'>www.djoumbourecuperation.com</p></Link>
+                    <Link href="djoumbourecuperation.com"><p className='mb-8 text-zinc-500'>www.djoumbourecuperation.com</p></Link>
                     <p className='lg:mb-4 text-zinc-700'>{dictionary.fopfr3b}</p>
                 </div>
             </div>
