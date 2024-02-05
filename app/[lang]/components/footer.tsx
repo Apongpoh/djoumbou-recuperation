@@ -64,7 +64,8 @@ export default function Footer(
                     <h5 className='mb-2 text-xl font-bold text-red-900'>{dictionary.fohfr3}</h5>
                     <p className='mb-2 text-zinc-500'>Tel: +237 696044069 / +237 653021491</p>
                     <p className='mb-2 text-zinc-500'>Gmail: djoumbourecuperation@gmail.com</p>
-                    <p className='mb-8 text-zinc-500'>{dictionary.fopfr3a}</p>
+                    <p className='mb-2 text-zinc-500'>Adresse: Marché New-Deido</p>
+                    <p className='mb-12 text-zinc-500'>{dictionary.fopfr3a}</p>
                     <p className='lg:mb-4 text-zinc-700'>{dictionary.fopfr3b}</p>
                 </div>
             </div>
